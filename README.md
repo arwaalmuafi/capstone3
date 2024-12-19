@@ -1,6 +1,6 @@
 ARWA
 
-Models&Repository&service:notfcation ,review ,booking backage---
+Models&Repository&service:notfcation(CRUD) ,review ,booking backage---
 controller:review , bookingpackage
 
 EndPoints:
